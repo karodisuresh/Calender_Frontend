@@ -71,7 +71,7 @@ Calender_Frontend_v_1.0.0 App is a React.js web application that allows users to
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/karodisuresh/Calender_Frontend.git
 cd  Calender_Frontend
 ```
 
